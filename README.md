@@ -33,6 +33,8 @@ Consider using CNNs when you have a large amount of complex data (such as image 
 
 
 Model: "sequential"
+![pipeline](https://user-images.githubusercontent.com/98209563/224373565-7de14913-f9e4-4c5e-b54c-39c24ea6c762.png)
+
 
 No, of layers: 10
 
