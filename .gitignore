@@ -4,3 +4,5 @@
 /dump
 /vcpkg
 /venv
+/dist
+run.spec
