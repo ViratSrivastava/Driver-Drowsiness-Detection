@@ -6,3 +6,4 @@
 /venv
 /dist
 run.spec
+build/run/run.pkg
